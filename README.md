@@ -2,7 +2,11 @@
 
 My implementation of a simple Space Invaders game.
 
-Wrote in python using the pygame library. To install pygame, run ```pip install pygame```
+Wrote in python using the pygame library. To install pygame, run 
+
+```
+pip install pygame
+```
 
 To run: 
 
