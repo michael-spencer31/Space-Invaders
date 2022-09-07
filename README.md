@@ -14,6 +14,5 @@ To run:
 python3 main.py
 ```
 
-Background music source:
+![Alt text](/screenshot.png?raw=true "Optional Title")
 
-Background by 2TECH-AUDIO | https://2tech-audio.bandcamp.com
